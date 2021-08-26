@@ -1,9 +1,5 @@
-//
-// Created by Lauri Annala on 26.8.2021.
-//
-
-#ifndef UNIT_TEST_TEST_CLASS_H
-#define UNIT_TEST_TEST_CLASS_H
+#ifndef CPP_UNIT_TEST_TEST_CLASS_H
+#define CPP_UNIT_TEST_TEST_CLASS_H
 
 
 class TestClass {
@@ -13,4 +9,4 @@ public:
 };
 
 
-#endif //UNIT_TEST_TEST_CLASS_H
+#endif //CPP_UNIT_TEST_TEST_CLASS_H
